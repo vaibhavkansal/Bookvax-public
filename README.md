@@ -1,10 +1,10 @@
-# covidvax-public
+# Bookvax-public
 The current pandemic situation is bad and it's important to get the covid vaccine to break the chain.
 However we also understand how difficult the slot booking process is and it's frustrating to keep a track
 of available slots in your location.
 We bring this app to take away the stress you had to go through everytime
 you wanted to check for available slots.This app will keep a track of that for you.
-Let Covidax worry about tracking the slots for you , all you have to do is register with your correct pincode 
+Let Bookvax worry about tracking the slots for you , all you have to do is register with your correct pincode 
 and enter your age .The app works with two buttons-
 Start- Press this button and the app will constantly keep a track of available slots and notify you as soon
 as slots are available.
