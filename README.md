@@ -1,4 +1,4 @@
-# Bookvax-public - Now Available on google PLaystore
+# Bookvax-public - Now Available on google Playstore
 Playstore link -> https://play.google.com/store/apps/details?id=com.vkapp.BookVax
 
 The current pandemic situation is bad and it's important to get the covid vaccine to break the chain.
